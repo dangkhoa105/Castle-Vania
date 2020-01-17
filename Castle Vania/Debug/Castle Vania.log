@@ -1,0 +1,23 @@
+﻿  Animation.cpp
+  Animations.cpp
+  Brick.cpp
+  debug.cpp
+  Game.cpp
+E:\Game\CastleVania\Castle Vania\Game.cpp(63,39): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+E:\Game\CastleVania\Castle Vania\Game.cpp(63,21): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+E:\Game\CastleVania\Castle Vania\Game.cpp(262,26): warning C4305: '=': truncation from '__int64' to 'float'
+E:\Game\CastleVania\Castle Vania\Game.cpp(263,24): warning C4305: '=': truncation from '__int64' to 'float'
+E:\Game\CastleVania\Castle Vania\Game.cpp(273,26): warning C4305: '=': truncation from '__int64' to 'float'
+E:\Game\CastleVania\Castle Vania\Game.cpp(274,24): warning C4305: '=': truncation from '__int64' to 'float'
+  GameObject.cpp
+  Goomba.cpp
+  main.cpp
+E:\Game\CastleVania\Castle Vania\main.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+E:\Game\CastleVania\Castle Vania\main.cpp(300,20): warning C4018: '<': signed/unsigned mismatch
+E:\Game\CastleVania\Castle Vania\main.cpp(332,21): warning C4018: '<': signed/unsigned mismatch
+  Simon.cpp
+  Sprite.cpp
+  Sprites.cpp
+  Textures.cpp
+  Generating Code...
+  Castle Vania.vcxproj -> E:\Game\CastleVania\Debug\Castle Vania.exe
