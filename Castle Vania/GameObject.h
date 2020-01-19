@@ -61,6 +61,7 @@ public:
 	int GetState() { return this->state; }
 
 	void RenderBoundingBox();
+	void RenderBoundingBox(int nx);
 
 	LPCOLLISIONEVENT SweptAABBEx(LPGAMEOBJECT coO);
 	void CalcPotentialCollisions(vector<LPGAMEOBJECT> *coObjects, vector<LPCOLLISIONEVENT> &coEvents);

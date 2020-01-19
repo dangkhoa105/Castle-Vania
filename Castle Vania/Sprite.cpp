@@ -17,3 +17,9 @@ void CSprite::Draw(float x, float y, int alpha)
 	CGame* game = CGame::GetInstance();
 	game->Draw(x, y, texture, left, top, right, bottom, alpha);
 }
+
+void CSprite::Draw(int nx, float x, float y, int alpha)
+{
+	CGame* game = CGame::GetInstance();
+	game->Draw(nx, x, y, texture, left, top, right, bottom, alpha);
+}
